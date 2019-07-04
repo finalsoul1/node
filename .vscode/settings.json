@@ -1,2 +1,13 @@
 {
+    "eslint.autoFixOnSave": true,
+
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+
+    "prettier.eslintIntegration": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "always",
+    "prettier.semi": false,
+    "prettier.printWidth": 80,
 }
